@@ -1,4 +1,4 @@
-# Hand-Gesture-Recognition-System
+# Real-Time Facial and Hand Gesture Recognition System
 
 ## Overview
 This project implements a real-time facial and hand gesture recognition system using computer vision techniques. It utilizes OpenCV for image processing and MediaPipe for hand and facial landmark detection.
